@@ -1,5 +1,10 @@
 Alunos: Bryan, Gustavo Lima, Kauan, Leciane e Thiago
 
+
+
+
+
+
 PASSO 1 – Coloque a DLL na pasta correta
 
 Abra a pasta do seu projeto no Windows Explorer, a mesma que contém as pastas src e out.

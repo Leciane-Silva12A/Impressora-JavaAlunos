@@ -1,1 +1,1 @@
-Faltando ajustes para oprograma rodar plenamente
+Faltando ajustes para o programa rodar plenamente
